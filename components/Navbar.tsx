@@ -19,7 +19,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-md sticky top-0 z-50">
       <div className="container-custom">
         <div className="flex justify-between items-center py-4">
-          <Link href="/" className="flex items-center gap-2 font-bold text-xl text-blue-600">
+          <Link href="/#" className="flex items-center gap-2 font-bold text-xl text-blue-600">
             <span className="text-2xl">⚡</span>
             Auto-Fill
           </Link>
