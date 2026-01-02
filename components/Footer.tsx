@@ -63,7 +63,7 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-4">Legal</h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <a href="/privacy-policy" className="hover:text-white transition">
+                <a href="/auto-fill-extension-website/privacy-policy" className="hover:text-white transition">
                   Privacy Policy
                 </a>
               </li>
