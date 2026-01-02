@@ -8,11 +8,11 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
 
   const navLinks = [
-    { href: '/#features', label: 'Features' },
-    { href: '/#benefits', label: 'Benefits' },
-    { href: '/#how-it-works', label: 'How it Works' },
-    { href: '/#security', label: 'Security' },
-    { href: '/#faq', label: 'FAQ' },
+    { href: '/auto-fill-extension-website/#features', label: 'Features' },
+    { href: '/auto-fill-extension-website/#benefits', label: 'Benefits' },
+    { href: '/auto-fill-extension-website/#how-it-works', label: 'How it Works' },
+    { href: '/auto-fill-extension-website/#security', label: 'Security' },
+    { href: '/auto-fill-extension-website/#faq', label: 'FAQ' },
   ]
 
   return (
