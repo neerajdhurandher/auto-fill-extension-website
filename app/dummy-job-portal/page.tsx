@@ -646,7 +646,7 @@ export default function DummyJobPortalPage() {
         </form>
 
         <div className="text-center mt-8">
-          <a href="/" className="text-blue-600 hover:text-blue-700 font-semibold transition-colors duration-200">
+          <a href="/auto-fill-extension-website" className="text-blue-600 hover:text-blue-700 font-semibold transition-colors duration-200">
             ← Back to Home
           </a>
         </div>
