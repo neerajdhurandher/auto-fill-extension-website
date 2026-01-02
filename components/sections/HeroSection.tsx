@@ -20,12 +20,15 @@ export default function HeroSection() {
                 Install Extension
               </a>
               <a
-                href="#how-it-works"
-                className="btn-secondary text-center"
+                href="/dummy-job-portal"
+                className="btn-secondary text-center transform hover:scale-105 transition-transform duration-200"
               >
-                See How It Works
+                🧪 Try Demo Portal
               </a>
             </div>
+            <p className="mt-4 text-sm text-gray-600">
+              ✨ Test the extension on our <a href="/dummy-job-portal" className="text-blue-600 hover:underline font-semibold">dummy job portal</a> before using it on real applications
+            </p>
             <div className="mt-10 flex gap-8">
               <div>
                 <p className="text-3xl font-bold text-blue-600">95%+</p>
