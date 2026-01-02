@@ -65,7 +65,7 @@ export default function FeaturesSection() {
               <span className="text-blue-600 font-bold text-2xl">✓</span>
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Test on Dummy Portal</h4>
-                <p className="text-gray-600">Try the extension on our <a href="/dummy-job-portal" className="text-blue-600 hover:underline font-semibold">safe testing environment</a> with a fully functional dummy job application form</p>
+                <p className="text-gray-600">Try the extension on our <a href="/auto-fill-extension-website/dummy-job-portal" className="text-blue-600 hover:underline font-semibold">safe testing environment</a> with a fully functional dummy job application form</p>
               </div>
             </div>
             <div className="flex gap-4">

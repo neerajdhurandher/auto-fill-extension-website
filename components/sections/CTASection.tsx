@@ -19,7 +19,7 @@ export default function CTASection() {
             Install Extension Now
           </a>
           <a
-            href="/dummy-job-portal"
+            href="/auto-fill-extension-website/dummy-job-portal"
             className="border-2 border-white text-white hover:bg-white hover:bg-opacity-20 hover:scale-105 font-semibold py-3 px-8 rounded-lg transition-all duration-200 transform"
           >
             🧪 Try Demo Portal
@@ -30,7 +30,7 @@ export default function CTASection() {
           ⏱️ Takes 2 minutes to install · 3 minutes to set up · 30 seconds to fill your first form
         </p>
         <p className="text-blue-100 text-sm">
-          🎯 Test it first on our <a href="/dummy-job-portal" className="underline hover:text-white">dummy job portal</a> before using on real applications
+          🎯 Test it first on our <a href="/auto-fill-extension-website/dummy-job-portal" className="underline hover:text-white">dummy job portal</a> before using on real applications
         </p>
       </div>
     </section>
