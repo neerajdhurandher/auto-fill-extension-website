@@ -36,12 +36,12 @@ function PlatformCard({ name, logo, supported }: PlatformProps) {
 
 export default function PlatformsSection() {
   const platforms = [
-    { name: 'LinkedIn', logo: '/linkedin-logo.svg', supported: true },
-    { name: 'Indeed', logo: '/indeed-logo.svg', supported: true },
-    { name: 'Glassdoor', logo: '/glassdoor-logo.svg', supported: true },
-    { name: 'Workday', logo: '/workday-logo.svg', supported: true },
-    { name: 'Monster', logo: '/monster-logo.svg', supported: false },
-    { name: 'ZipRecruiter', logo: '/ziprecruiter-logo.svg', supported: false },
+    { name: 'LinkedIn', logo: '/auto-fill-extension-website/linkedin-logo.svg', supported: true },
+    { name: 'Indeed', logo: '/auto-fill-extension-website/indeed-logo.svg', supported: true },
+    { name: 'Glassdoor', logo: '/auto-fill-extension-website/glassdoor-logo.svg', supported: true },
+    { name: 'Workday', logo: '/auto-fill-extension-website/workday-logo.svg', supported: true },
+    { name: 'Monster', logo: '/auto-fill-extension-website/monster-logo.svg', supported: false },
+    { name: 'ZipRecruiter', logo: '/auto-fill-extension-website/ziprecruiter-logo.svg', supported: false },
   ]
 
   return (
