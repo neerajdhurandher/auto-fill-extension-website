@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   keywords: ['Chrome extension', 'Job application', 'Auto-fill', 'Job hunting', 'LinkedIn', 'Indeed', 'Glassdoor'],
   authors: [{ name: 'Neeraj Dhurandher' }],
   icons: {
-    icon: '/icon.svg',
-    apple: '/apple-icon.svg',
+    icon: '/auto-fill-extension-website/icon.svg',
+    apple: '/auto-fill-extension-website/apple-icon.svg',
   },
   openGraph: {
     type: 'website',
